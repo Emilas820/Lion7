@@ -1,0 +1,7 @@
+C:\dev\2026_01_05\Lec_2026_01_05_SignedInterger\bin\Debug\Lec_2026_01_05_SignedInterger.exe.config
+C:\dev\2026_01_05\Lec_2026_01_05_SignedInterger\bin\Debug\Lec_2026_01_05_SignedInterger.exe
+C:\dev\2026_01_05\Lec_2026_01_05_SignedInterger\bin\Debug\Lec_2026_01_05_SignedInterger.pdb
+C:\dev\2026_01_05\Lec_2026_01_05_SignedInterger\obj\Debug\Lec_2026_01_05_SignedInterger.csproj.AssemblyReference.cache
+C:\dev\2026_01_05\Lec_2026_01_05_SignedInterger\obj\Debug\Lec_2026_01_05_SignedInterger.csproj.CoreCompileInputs.cache
+C:\dev\2026_01_05\Lec_2026_01_05_SignedInterger\obj\Debug\Lec_2026_01_05_SignedInterger.exe
+C:\dev\2026_01_05\Lec_2026_01_05_SignedInterger\obj\Debug\Lec_2026_01_05_SignedInterger.pdb

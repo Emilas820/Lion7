@@ -1,0 +1,7 @@
+C:\dev\2026_01_05\Lec_2026_01_05_NumLiteral\bin\Debug\Lec_2026_01_05_NumLiteral.exe.config
+C:\dev\2026_01_05\Lec_2026_01_05_NumLiteral\bin\Debug\Lec_2026_01_05_NumLiteral.exe
+C:\dev\2026_01_05\Lec_2026_01_05_NumLiteral\bin\Debug\Lec_2026_01_05_NumLiteral.pdb
+C:\dev\2026_01_05\Lec_2026_01_05_NumLiteral\obj\Debug\Lec_2026_01_05_NumLiteral.csproj.AssemblyReference.cache
+C:\dev\2026_01_05\Lec_2026_01_05_NumLiteral\obj\Debug\Lec_2026_01_05_NumLiteral.csproj.CoreCompileInputs.cache
+C:\dev\2026_01_05\Lec_2026_01_05_NumLiteral\obj\Debug\Lec_2026_01_05_NumLiteral.exe
+C:\dev\2026_01_05\Lec_2026_01_05_NumLiteral\obj\Debug\Lec_2026_01_05_NumLiteral.pdb

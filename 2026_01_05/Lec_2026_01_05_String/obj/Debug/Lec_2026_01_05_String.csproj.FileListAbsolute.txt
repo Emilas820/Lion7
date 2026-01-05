@@ -1,0 +1,8 @@
+C:\dev\2026_01_05\Lec_2026_01_05_String\bin\Debug\Lec_2026_01_05_String.exe.config
+C:\dev\2026_01_05\Lec_2026_01_05_String\bin\Debug\Lec_2026_01_05_String.exe
+C:\dev\2026_01_05\Lec_2026_01_05_String\bin\Debug\Lec_2026_01_05_String.pdb
+C:\dev\2026_01_05\Lec_2026_01_05_String\obj\Debug\Lec_2026_01_05_String.csproj.AssemblyReference.cache
+C:\dev\2026_01_05\Lec_2026_01_05_String\obj\Debug\Lec_2026_01_05_String.csproj.CoreCompileInputs.cache
+C:\dev\2026_01_05\Lec_2026_01_05_String\obj\Debug\Lec_2026_01_05_String.exe
+C:\dev\2026_01_05\Lec_2026_01_05_String\obj\Debug\Lec_2026_01_05_String.pdb
+C:\dev\2026_01_05\Lec_2026_01_05_String\obj\Debug\Lec_2026_01_05_String.exe.config

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\dev\\2025_12_31\\Game_start\\",
+  "WorkspaceRootPath": "C:\\dev\\Lion7\\2025_12_31\\Lec_2025_12_31_Game_start\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6883D485-1498-488E-A782-9A5F1E9FDFBE}|Game_start.csproj|c:\\dev\\2025_12_31\\game_start\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6883D485-1498-488E-A782-9A5F1E9FDFBE}|Game_start.csproj|c:\\dev\\lion7\\2025_12_31\\lec_2025_12_31_game_start\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6883D485-1498-488E-A782-9A5F1E9FDFBE}|Game_start.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\2025_12_31\\Game_start\\Program.cs",
+              "DocumentMoniker": "C:\\dev\\Lion7\\2025_12_31\\Lec_2025_12_31_Game_start\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\dev\\2025_12_31\\Game_start\\Program.cs",
+              "ToolTip": "C:\\dev\\Lion7\\2025_12_31\\Lec_2025_12_31_Game_start\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAmwC0AAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-31T06:17:01.033Z",
               "EditorCaption": ""

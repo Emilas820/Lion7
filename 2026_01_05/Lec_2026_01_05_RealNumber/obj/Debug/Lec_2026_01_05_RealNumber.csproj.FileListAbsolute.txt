@@ -1,0 +1,7 @@
+C:\dev\2026_01_05\Lec_2026_01_05_RealNumber\bin\Debug\Lec_2026_01_05_RealNumber.exe.config
+C:\dev\2026_01_05\Lec_2026_01_05_RealNumber\bin\Debug\Lec_2026_01_05_RealNumber.exe
+C:\dev\2026_01_05\Lec_2026_01_05_RealNumber\bin\Debug\Lec_2026_01_05_RealNumber.pdb
+C:\dev\2026_01_05\Lec_2026_01_05_RealNumber\obj\Debug\Lec_2026_01_05_RealNumber.csproj.AssemblyReference.cache
+C:\dev\2026_01_05\Lec_2026_01_05_RealNumber\obj\Debug\Lec_2026_01_05_RealNumber.csproj.CoreCompileInputs.cache
+C:\dev\2026_01_05\Lec_2026_01_05_RealNumber\obj\Debug\Lec_2026_01_05_RealNumber.exe
+C:\dev\2026_01_05\Lec_2026_01_05_RealNumber\obj\Debug\Lec_2026_01_05_RealNumber.pdb

@@ -1,0 +1,8 @@
+C:\dev\Lion7\2026_01_05\Lec_Const_2025_01_05\bin\Debug\Lec_Const_2025_01_05.exe.config
+C:\dev\Lion7\2026_01_05\Lec_Const_2025_01_05\bin\Debug\Lec_Const_2025_01_05.exe
+C:\dev\Lion7\2026_01_05\Lec_Const_2025_01_05\bin\Debug\Lec_Const_2025_01_05.pdb
+C:\dev\Lion7\2026_01_05\Lec_Const_2025_01_05\obj\Debug\Lec_Const_2025_01_05.csproj.AssemblyReference.cache
+C:\dev\Lion7\2026_01_05\Lec_Const_2025_01_05\obj\Debug\Lec_Const_2025_01_05.csproj.CoreCompileInputs.cache
+C:\dev\Lion7\2026_01_05\Lec_Const_2025_01_05\obj\Debug\Lec_Const_2025_01_05.exe
+C:\dev\Lion7\2026_01_05\Lec_Const_2025_01_05\obj\Debug\Lec_Const_2025_01_05.pdb
+C:\dev\Lion7\2026_01_05\Lec_Const_2025_01_05\obj\Debug\Lec_Const_2025_01_05.exe.config

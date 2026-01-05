@@ -1,0 +1,8 @@
+C:\dev\2026_01_05\Lec_2026_01_05_Boolean\bin\Debug\Lec_2026_01_05_Boolean.exe.config
+C:\dev\2026_01_05\Lec_2026_01_05_Boolean\bin\Debug\Lec_2026_01_05_Boolean.exe
+C:\dev\2026_01_05\Lec_2026_01_05_Boolean\bin\Debug\Lec_2026_01_05_Boolean.pdb
+C:\dev\2026_01_05\Lec_2026_01_05_Boolean\obj\Debug\Lec_2026_01_05_Boolean.csproj.AssemblyReference.cache
+C:\dev\2026_01_05\Lec_2026_01_05_Boolean\obj\Debug\Lec_2026_01_05_Boolean.csproj.CoreCompileInputs.cache
+C:\dev\2026_01_05\Lec_2026_01_05_Boolean\obj\Debug\Lec_2026_01_05_Boolean.exe
+C:\dev\2026_01_05\Lec_2026_01_05_Boolean\obj\Debug\Lec_2026_01_05_Boolean.pdb
+C:\dev\2026_01_05\Lec_2026_01_05_Boolean\obj\Debug\Lec_2026_01_05_Boolean.exe.config

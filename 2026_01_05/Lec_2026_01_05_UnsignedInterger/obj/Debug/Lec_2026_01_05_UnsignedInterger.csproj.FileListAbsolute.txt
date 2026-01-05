@@ -1,0 +1,7 @@
+C:\dev\2026_01_05\Lec_2026_01_05_UnsignedInterger\bin\Debug\Lec_2026_01_05_UnsignedInterger.exe.config
+C:\dev\2026_01_05\Lec_2026_01_05_UnsignedInterger\bin\Debug\Lec_2026_01_05_UnsignedInterger.exe
+C:\dev\2026_01_05\Lec_2026_01_05_UnsignedInterger\bin\Debug\Lec_2026_01_05_UnsignedInterger.pdb
+C:\dev\2026_01_05\Lec_2026_01_05_UnsignedInterger\obj\Debug\Lec_2026_01_05_UnsignedInterger.csproj.AssemblyReference.cache
+C:\dev\2026_01_05\Lec_2026_01_05_UnsignedInterger\obj\Debug\Lec_2026_01_05_UnsignedInterger.csproj.CoreCompileInputs.cache
+C:\dev\2026_01_05\Lec_2026_01_05_UnsignedInterger\obj\Debug\Lec_2026_01_05_UnsignedInterger.exe
+C:\dev\2026_01_05\Lec_2026_01_05_UnsignedInterger\obj\Debug\Lec_2026_01_05_UnsignedInterger.pdb

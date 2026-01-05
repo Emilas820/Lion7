@@ -1,0 +1,8 @@
+C:\dev\2026_01_05\Lec_2026_01_05_Mission\bin\Debug\Lec_2026_01_05_Mission.exe.config
+C:\dev\2026_01_05\Lec_2026_01_05_Mission\bin\Debug\Lec_2026_01_05_Mission.exe
+C:\dev\2026_01_05\Lec_2026_01_05_Mission\bin\Debug\Lec_2026_01_05_Mission.pdb
+C:\dev\2026_01_05\Lec_2026_01_05_Mission\obj\Debug\Lec_2026_01_05_Mission.csproj.AssemblyReference.cache
+C:\dev\2026_01_05\Lec_2026_01_05_Mission\obj\Debug\Lec_2026_01_05_Mission.csproj.CoreCompileInputs.cache
+C:\dev\2026_01_05\Lec_2026_01_05_Mission\obj\Debug\Lec_2026_01_05_Mission.exe
+C:\dev\2026_01_05\Lec_2026_01_05_Mission\obj\Debug\Lec_2026_01_05_Mission.pdb
+C:\dev\2026_01_05\Lec_2026_01_05_Mission\obj\Debug\Lec_2026_01_05_Mission.exe.config

@@ -1,0 +1,7 @@
+C:\dev\2026_01_05\Lec_2026_01_05_Integer\bin\Debug\Lec_2026_01_05_Integer.exe.config
+C:\dev\2026_01_05\Lec_2026_01_05_Integer\bin\Debug\Lec_2026_01_05_Integer.exe
+C:\dev\2026_01_05\Lec_2026_01_05_Integer\bin\Debug\Lec_2026_01_05_Integer.pdb
+C:\dev\2026_01_05\Lec_2026_01_05_Integer\obj\Debug\Lec_2026_01_05_Integer.csproj.AssemblyReference.cache
+C:\dev\2026_01_05\Lec_2026_01_05_Integer\obj\Debug\Lec_2026_01_05_Integer.csproj.CoreCompileInputs.cache
+C:\dev\2026_01_05\Lec_2026_01_05_Integer\obj\Debug\Lec_2026_01_05_Integer.exe
+C:\dev\2026_01_05\Lec_2026_01_05_Integer\obj\Debug\Lec_2026_01_05_Integer.pdb

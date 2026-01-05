@@ -1,0 +1,7 @@
+C:\dev\2026_01_05\Lec_2026_01_05_Wrapper\bin\Debug\Lec_2026_01_05_Wrapper.exe.config
+C:\dev\2026_01_05\Lec_2026_01_05_Wrapper\bin\Debug\Lec_2026_01_05_Wrapper.exe
+C:\dev\2026_01_05\Lec_2026_01_05_Wrapper\bin\Debug\Lec_2026_01_05_Wrapper.pdb
+C:\dev\2026_01_05\Lec_2026_01_05_Wrapper\obj\Debug\Lec_2026_01_05_Wrapper.csproj.AssemblyReference.cache
+C:\dev\2026_01_05\Lec_2026_01_05_Wrapper\obj\Debug\Lec_2026_01_05_Wrapper.csproj.CoreCompileInputs.cache
+C:\dev\2026_01_05\Lec_2026_01_05_Wrapper\obj\Debug\Lec_2026_01_05_Wrapper.exe
+C:\dev\2026_01_05\Lec_2026_01_05_Wrapper\obj\Debug\Lec_2026_01_05_Wrapper.pdb

@@ -1,0 +1,7 @@
+C:\dev\2026_01_05\Lec_2026_01_05_.Net\bin\Debug\Lec_2026_01_05_.Net.exe.config
+C:\dev\2026_01_05\Lec_2026_01_05_.Net\bin\Debug\Lec_2026_01_05_.Net.exe
+C:\dev\2026_01_05\Lec_2026_01_05_.Net\bin\Debug\Lec_2026_01_05_.Net.pdb
+C:\dev\2026_01_05\Lec_2026_01_05_.Net\obj\Debug\Lec_2026_01_05_.Net.csproj.AssemblyReference.cache
+C:\dev\2026_01_05\Lec_2026_01_05_.Net\obj\Debug\Lec_2026_01_05_.Net.csproj.CoreCompileInputs.cache
+C:\dev\2026_01_05\Lec_2026_01_05_.Net\obj\Debug\Lec_2026_01_05_.Net.exe
+C:\dev\2026_01_05\Lec_2026_01_05_.Net\obj\Debug\Lec_2026_01_05_.Net.pdb

@@ -1,0 +1,8 @@
+C:\dev\2026_01_05\Lec_2026_01_05_Char\bin\Debug\Lec_2026_01_05_Char.exe.config
+C:\dev\2026_01_05\Lec_2026_01_05_Char\bin\Debug\Lec_2026_01_05_Char.exe
+C:\dev\2026_01_05\Lec_2026_01_05_Char\bin\Debug\Lec_2026_01_05_Char.pdb
+C:\dev\2026_01_05\Lec_2026_01_05_Char\obj\Debug\Lec_2026_01_05_Char.csproj.AssemblyReference.cache
+C:\dev\2026_01_05\Lec_2026_01_05_Char\obj\Debug\Lec_2026_01_05_Char.csproj.CoreCompileInputs.cache
+C:\dev\2026_01_05\Lec_2026_01_05_Char\obj\Debug\Lec_2026_01_05_Char.exe
+C:\dev\2026_01_05\Lec_2026_01_05_Char\obj\Debug\Lec_2026_01_05_Char.pdb
+C:\dev\2026_01_05\Lec_2026_01_05_Char\obj\Debug\Lec_2026_01_05_Char.exe.config
