@@ -1,0 +1,8 @@
+C:\dev\2025_12_31\Vars\bin\Debug\Vars.exe.config
+C:\dev\2025_12_31\Vars\bin\Debug\Vars.exe
+C:\dev\2025_12_31\Vars\bin\Debug\Vars.pdb
+C:\dev\2025_12_31\Vars\obj\Debug\Vars.csproj.AssemblyReference.cache
+C:\dev\2025_12_31\Vars\obj\Debug\Vars.csproj.CoreCompileInputs.cache
+C:\dev\2025_12_31\Vars\obj\Debug\Vars.exe
+C:\dev\2025_12_31\Vars\obj\Debug\Vars.pdb
+C:\dev\2025_12_31\Vars\obj\Debug\Vars.exe.config

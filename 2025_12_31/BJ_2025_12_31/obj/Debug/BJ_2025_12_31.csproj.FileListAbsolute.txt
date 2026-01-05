@@ -1,0 +1,8 @@
+C:\dev\2025_12_31\BJ_2025_12_31\bin\Debug\BJ_2025_12_31.exe.config
+C:\dev\2025_12_31\BJ_2025_12_31\bin\Debug\BJ_2025_12_31.exe
+C:\dev\2025_12_31\BJ_2025_12_31\bin\Debug\BJ_2025_12_31.pdb
+C:\dev\2025_12_31\BJ_2025_12_31\obj\Debug\BJ_2025_12_31.csproj.AssemblyReference.cache
+C:\dev\2025_12_31\BJ_2025_12_31\obj\Debug\BJ_2025_12_31.csproj.CoreCompileInputs.cache
+C:\dev\2025_12_31\BJ_2025_12_31\obj\Debug\BJ_2025_12_31.exe
+C:\dev\2025_12_31\BJ_2025_12_31\obj\Debug\BJ_2025_12_31.pdb
+C:\dev\2025_12_31\BJ_2025_12_31\obj\Debug\BJ_2025_12_31.exe.config

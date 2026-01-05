@@ -1,0 +1,8 @@
+C:\dev\2025_12_31\Lec_2025_12_31_Const\obj\Debug\Lec_2025_12_31_Const.csproj.AssemblyReference.cache
+C:\dev\2025_12_31\Lec_2025_12_31_Const\obj\Debug\Lec_2025_12_31_Const.csproj.CoreCompileInputs.cache
+C:\dev\2025_12_31\Lec_2025_12_31_Const\bin\Debug\Lec_2025_12_31_Const.exe.config
+C:\dev\2025_12_31\Lec_2025_12_31_Const\bin\Debug\Lec_2025_12_31_Const.exe
+C:\dev\2025_12_31\Lec_2025_12_31_Const\bin\Debug\Lec_2025_12_31_Const.pdb
+C:\dev\2025_12_31\Lec_2025_12_31_Const\obj\Debug\Lec_2025_12_31_Const.exe
+C:\dev\2025_12_31\Lec_2025_12_31_Const\obj\Debug\Lec_2025_12_31_Const.pdb
+C:\dev\2025_12_31\Lec_2025_12_31_Const\obj\Debug\Lec_2025_12_31_Const.exe.config

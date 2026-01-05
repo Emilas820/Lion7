@@ -1,0 +1,8 @@
+C:\dev\2025_12_31\Game_start\bin\Debug\Game_start.exe.config
+C:\dev\2025_12_31\Game_start\bin\Debug\Game_start.exe
+C:\dev\2025_12_31\Game_start\bin\Debug\Game_start.pdb
+C:\dev\2025_12_31\Game_start\obj\Debug\Game_start.csproj.AssemblyReference.cache
+C:\dev\2025_12_31\Game_start\obj\Debug\Game_start.csproj.CoreCompileInputs.cache
+C:\dev\2025_12_31\Game_start\obj\Debug\Game_start.exe
+C:\dev\2025_12_31\Game_start\obj\Debug\Game_start.pdb
+C:\dev\2025_12_31\Game_start\obj\Debug\Game_start.exe.config

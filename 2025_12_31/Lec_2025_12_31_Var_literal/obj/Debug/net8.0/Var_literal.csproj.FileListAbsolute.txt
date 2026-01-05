@@ -1,0 +1,14 @@
+C:\dev\2025_12_31\Var_literal\bin\Debug\net8.0\Var_literal.exe
+C:\dev\2025_12_31\Var_literal\bin\Debug\net8.0\Var_literal.deps.json
+C:\dev\2025_12_31\Var_literal\bin\Debug\net8.0\Var_literal.runtimeconfig.json
+C:\dev\2025_12_31\Var_literal\bin\Debug\net8.0\Var_literal.dll
+C:\dev\2025_12_31\Var_literal\bin\Debug\net8.0\Var_literal.pdb
+C:\dev\2025_12_31\Var_literal\obj\Debug\net8.0\Var_literal.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\2025_12_31\Var_literal\obj\Debug\net8.0\Var_literal.AssemblyInfoInputs.cache
+C:\dev\2025_12_31\Var_literal\obj\Debug\net8.0\Var_literal.AssemblyInfo.cs
+C:\dev\2025_12_31\Var_literal\obj\Debug\net8.0\Var_literal.csproj.CoreCompileInputs.cache
+C:\dev\2025_12_31\Var_literal\obj\Debug\net8.0\Var_literal.dll
+C:\dev\2025_12_31\Var_literal\obj\Debug\net8.0\refint\Var_literal.dll
+C:\dev\2025_12_31\Var_literal\obj\Debug\net8.0\Var_literal.pdb
+C:\dev\2025_12_31\Var_literal\obj\Debug\net8.0\Var_literal.genruntimeconfig.cache
+C:\dev\2025_12_31\Var_literal\obj\Debug\net8.0\ref\Var_literal.dll

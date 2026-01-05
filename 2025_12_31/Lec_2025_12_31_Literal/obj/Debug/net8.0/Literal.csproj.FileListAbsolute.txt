@@ -1,0 +1,14 @@
+C:\dev\2025_12_31\Literal\bin\Debug\net8.0\Literal.exe
+C:\dev\2025_12_31\Literal\bin\Debug\net8.0\Literal.deps.json
+C:\dev\2025_12_31\Literal\bin\Debug\net8.0\Literal.runtimeconfig.json
+C:\dev\2025_12_31\Literal\bin\Debug\net8.0\Literal.dll
+C:\dev\2025_12_31\Literal\bin\Debug\net8.0\Literal.pdb
+C:\dev\2025_12_31\Literal\obj\Debug\net8.0\Literal.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\2025_12_31\Literal\obj\Debug\net8.0\Literal.AssemblyInfoInputs.cache
+C:\dev\2025_12_31\Literal\obj\Debug\net8.0\Literal.AssemblyInfo.cs
+C:\dev\2025_12_31\Literal\obj\Debug\net8.0\Literal.csproj.CoreCompileInputs.cache
+C:\dev\2025_12_31\Literal\obj\Debug\net8.0\Literal.dll
+C:\dev\2025_12_31\Literal\obj\Debug\net8.0\refint\Literal.dll
+C:\dev\2025_12_31\Literal\obj\Debug\net8.0\Literal.pdb
+C:\dev\2025_12_31\Literal\obj\Debug\net8.0\Literal.genruntimeconfig.cache
+C:\dev\2025_12_31\Literal\obj\Debug\net8.0\ref\Literal.dll

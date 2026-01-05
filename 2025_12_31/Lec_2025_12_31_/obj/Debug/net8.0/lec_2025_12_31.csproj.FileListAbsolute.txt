@@ -1,0 +1,14 @@
+C:\dev\2025_12_31\lec_2025_12_31\bin\Debug\net8.0\lec_2025_12_31.exe
+C:\dev\2025_12_31\lec_2025_12_31\bin\Debug\net8.0\lec_2025_12_31.deps.json
+C:\dev\2025_12_31\lec_2025_12_31\bin\Debug\net8.0\lec_2025_12_31.runtimeconfig.json
+C:\dev\2025_12_31\lec_2025_12_31\bin\Debug\net8.0\lec_2025_12_31.dll
+C:\dev\2025_12_31\lec_2025_12_31\bin\Debug\net8.0\lec_2025_12_31.pdb
+C:\dev\2025_12_31\lec_2025_12_31\obj\Debug\net8.0\lec_2025_12_31.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\2025_12_31\lec_2025_12_31\obj\Debug\net8.0\lec_2025_12_31.AssemblyInfoInputs.cache
+C:\dev\2025_12_31\lec_2025_12_31\obj\Debug\net8.0\lec_2025_12_31.AssemblyInfo.cs
+C:\dev\2025_12_31\lec_2025_12_31\obj\Debug\net8.0\lec_2025_12_31.csproj.CoreCompileInputs.cache
+C:\dev\2025_12_31\lec_2025_12_31\obj\Debug\net8.0\lec_2025_12_31.dll
+C:\dev\2025_12_31\lec_2025_12_31\obj\Debug\net8.0\refint\lec_2025_12_31.dll
+C:\dev\2025_12_31\lec_2025_12_31\obj\Debug\net8.0\lec_2025_12_31.pdb
+C:\dev\2025_12_31\lec_2025_12_31\obj\Debug\net8.0\lec_2025_12_31.genruntimeconfig.cache
+C:\dev\2025_12_31\lec_2025_12_31\obj\Debug\net8.0\ref\lec_2025_12_31.dll

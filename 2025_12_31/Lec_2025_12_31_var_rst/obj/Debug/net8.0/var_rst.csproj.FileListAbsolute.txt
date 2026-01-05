@@ -1,0 +1,14 @@
+C:\dev\2025_12_31\var_rst\bin\Debug\net8.0\var_rst.exe
+C:\dev\2025_12_31\var_rst\bin\Debug\net8.0\var_rst.deps.json
+C:\dev\2025_12_31\var_rst\bin\Debug\net8.0\var_rst.runtimeconfig.json
+C:\dev\2025_12_31\var_rst\bin\Debug\net8.0\var_rst.dll
+C:\dev\2025_12_31\var_rst\bin\Debug\net8.0\var_rst.pdb
+C:\dev\2025_12_31\var_rst\obj\Debug\net8.0\var_rst.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\2025_12_31\var_rst\obj\Debug\net8.0\var_rst.AssemblyInfoInputs.cache
+C:\dev\2025_12_31\var_rst\obj\Debug\net8.0\var_rst.AssemblyInfo.cs
+C:\dev\2025_12_31\var_rst\obj\Debug\net8.0\var_rst.csproj.CoreCompileInputs.cache
+C:\dev\2025_12_31\var_rst\obj\Debug\net8.0\var_rst.dll
+C:\dev\2025_12_31\var_rst\obj\Debug\net8.0\refint\var_rst.dll
+C:\dev\2025_12_31\var_rst\obj\Debug\net8.0\var_rst.pdb
+C:\dev\2025_12_31\var_rst\obj\Debug\net8.0\var_rst.genruntimeconfig.cache
+C:\dev\2025_12_31\var_rst\obj\Debug\net8.0\ref\var_rst.dll
