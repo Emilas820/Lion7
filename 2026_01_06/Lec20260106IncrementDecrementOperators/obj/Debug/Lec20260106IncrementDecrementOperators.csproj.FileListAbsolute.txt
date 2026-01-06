@@ -1,0 +1,8 @@
+C:\dev\Lion7\2026_01_06\Lec20260106IncrementDecrementOperators\bin\Debug\Lec20260106IncrementDecrementOperators.exe.config
+C:\dev\Lion7\2026_01_06\Lec20260106IncrementDecrementOperators\bin\Debug\Lec20260106IncrementDecrementOperators.exe
+C:\dev\Lion7\2026_01_06\Lec20260106IncrementDecrementOperators\bin\Debug\Lec20260106IncrementDecrementOperators.pdb
+C:\dev\Lion7\2026_01_06\Lec20260106IncrementDecrementOperators\obj\Debug\Lec20260106IncrementDecrementOperators.csproj.AssemblyReference.cache
+C:\dev\Lion7\2026_01_06\Lec20260106IncrementDecrementOperators\obj\Debug\Lec20260106IncrementDecrementOperators.csproj.CoreCompileInputs.cache
+C:\dev\Lion7\2026_01_06\Lec20260106IncrementDecrementOperators\obj\Debug\Lec20260106IncrementDecrementOperators.exe
+C:\dev\Lion7\2026_01_06\Lec20260106IncrementDecrementOperators\obj\Debug\Lec20260106IncrementDecrementOperators.pdb
+C:\dev\Lion7\2026_01_06\Lec20260106IncrementDecrementOperators\obj\Debug\Lec20260106IncrementDecrementOperators.exe.config

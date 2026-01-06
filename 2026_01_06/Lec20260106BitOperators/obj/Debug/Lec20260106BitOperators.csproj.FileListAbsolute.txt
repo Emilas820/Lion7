@@ -1,0 +1,8 @@
+C:\dev\Lion7\2026_01_06\Lec20260106BitOperators\obj\Debug\Lec20260106BitOperators.csproj.AssemblyReference.cache
+C:\dev\Lion7\2026_01_06\Lec20260106BitOperators\obj\Debug\Lec20260106BitOperators.csproj.CoreCompileInputs.cache
+C:\dev\Lion7\2026_01_06\Lec20260106BitOperators\bin\Debug\Lec20260106BitOperators.exe.config
+C:\dev\Lion7\2026_01_06\Lec20260106BitOperators\bin\Debug\Lec20260106BitOperators.exe
+C:\dev\Lion7\2026_01_06\Lec20260106BitOperators\bin\Debug\Lec20260106BitOperators.pdb
+C:\dev\Lion7\2026_01_06\Lec20260106BitOperators\obj\Debug\Lec20260106BitOperators.exe
+C:\dev\Lion7\2026_01_06\Lec20260106BitOperators\obj\Debug\Lec20260106BitOperators.pdb
+C:\dev\Lion7\2026_01_06\Lec20260106BitOperators\obj\Debug\Lec20260106BitOperators.exe.config

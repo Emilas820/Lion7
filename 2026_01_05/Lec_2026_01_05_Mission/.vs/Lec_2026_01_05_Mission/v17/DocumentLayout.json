@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\dev\\2026_01_05\\Lec_2026_01_05_Mission\\",
+  "WorkspaceRootPath": "C:\\dev\\Lion7\\2026_01_05\\Lec_2026_01_05_Mission\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F1497FF-7239-48C5-8A1C-558AAEB77B30}|Lec_2026_01_05_Mission.csproj|c:\\dev\\2026_01_05\\lec_2026_01_05_mission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2F1497FF-7239-48C5-8A1C-558AAEB77B30}|Lec_2026_01_05_Mission.csproj|c:\\dev\\lion7\\2026_01_05\\lec_2026_01_05_mission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F1497FF-7239-48C5-8A1C-558AAEB77B30}|Lec_2026_01_05_Mission.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\2026_01_05\\Lec_2026_01_05_Mission\\Program.cs",
+              "DocumentMoniker": "C:\\dev\\Lion7\\2026_01_05\\Lec_2026_01_05_Mission\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\dev\\2026_01_05\\Lec_2026_01_05_Mission\\Program.cs",
+              "ToolTip": "C:\\dev\\Lion7\\2026_01_05\\Lec_2026_01_05_Mission\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAcwCQAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-05T06:52:43.566Z",
               "EditorCaption": ""

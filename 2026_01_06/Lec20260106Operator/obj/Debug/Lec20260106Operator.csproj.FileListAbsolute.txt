@@ -1,0 +1,8 @@
+C:\dev\Lion7\2026_01_06\Lec20260106Operator\bin\Debug\Lec20260106Operator.exe.config
+C:\dev\Lion7\2026_01_06\Lec20260106Operator\bin\Debug\Lec20260106Operator.exe
+C:\dev\Lion7\2026_01_06\Lec20260106Operator\bin\Debug\Lec20260106Operator.pdb
+C:\dev\Lion7\2026_01_06\Lec20260106Operator\obj\Debug\Lec20260106Operator.csproj.AssemblyReference.cache
+C:\dev\Lion7\2026_01_06\Lec20260106Operator\obj\Debug\Lec20260106Operator.csproj.CoreCompileInputs.cache
+C:\dev\Lion7\2026_01_06\Lec20260106Operator\obj\Debug\Lec20260106Operator.exe
+C:\dev\Lion7\2026_01_06\Lec20260106Operator\obj\Debug\Lec20260106Operator.pdb
+C:\dev\Lion7\2026_01_06\Lec20260106Operator\obj\Debug\Lec20260106Operator.exe.config

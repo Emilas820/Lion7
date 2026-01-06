@@ -1,0 +1,7 @@
+C:\dev\Lion7\2026_01_06\Lec20260105Parse\bin\Debug\Lec20260105Parse.exe.config
+C:\dev\Lion7\2026_01_06\Lec20260105Parse\bin\Debug\Lec20260105Parse.exe
+C:\dev\Lion7\2026_01_06\Lec20260105Parse\bin\Debug\Lec20260105Parse.pdb
+C:\dev\Lion7\2026_01_06\Lec20260105Parse\obj\Debug\Lec20260105Parse.csproj.AssemblyReference.cache
+C:\dev\Lion7\2026_01_06\Lec20260105Parse\obj\Debug\Lec20260105Parse.csproj.CoreCompileInputs.cache
+C:\dev\Lion7\2026_01_06\Lec20260105Parse\obj\Debug\Lec20260105Parse.exe
+C:\dev\Lion7\2026_01_06\Lec20260105Parse\obj\Debug\Lec20260105Parse.pdb

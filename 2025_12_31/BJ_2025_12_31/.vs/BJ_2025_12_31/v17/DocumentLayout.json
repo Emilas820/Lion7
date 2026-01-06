@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\dev\\2025_12_31\\BJ_2025_12_31\\",
+  "WorkspaceRootPath": "C:\\dev\\Lion7\\2025_12_31\\BJ_2025_12_31\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA671862-0BFD-4FED-A31D-91192136A9E5}|BJ_2025_12_31.csproj|c:\\dev\\2025_12_31\\bj_2025_12_31\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA671862-0BFD-4FED-A31D-91192136A9E5}|BJ_2025_12_31.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\Lion7\\2025_12_31\\BJ_2025_12_31\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\2025_12_31\\BJ_2025_12_31\\Program.cs",
+              "DocumentMoniker": "C:\\dev\\Lion7\\2025_12_31\\BJ_2025_12_31\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\dev\\2025_12_31\\BJ_2025_12_31\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\dev\\Lion7\\2025_12_31\\BJ_2025_12_31\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-31T07:00:48.064Z",
               "EditorCaption": ""

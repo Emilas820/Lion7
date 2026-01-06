@@ -1,0 +1,8 @@
+C:\dev\Lion7\2026_01_06\Lec20260106ConsoleRead\bin\Debug\Lec20260106ConsoleRead.exe.config
+C:\dev\Lion7\2026_01_06\Lec20260106ConsoleRead\bin\Debug\Lec20260106ConsoleRead.exe
+C:\dev\Lion7\2026_01_06\Lec20260106ConsoleRead\bin\Debug\Lec20260106ConsoleRead.pdb
+C:\dev\Lion7\2026_01_06\Lec20260106ConsoleRead\obj\Debug\Lec20260106ConsoleRead.csproj.AssemblyReference.cache
+C:\dev\Lion7\2026_01_06\Lec20260106ConsoleRead\obj\Debug\Lec20260106ConsoleRead.csproj.CoreCompileInputs.cache
+C:\dev\Lion7\2026_01_06\Lec20260106ConsoleRead\obj\Debug\Lec20260106ConsoleRead.exe
+C:\dev\Lion7\2026_01_06\Lec20260106ConsoleRead\obj\Debug\Lec20260106ConsoleRead.pdb
+C:\dev\Lion7\2026_01_06\Lec20260106ConsoleRead\obj\Debug\Lec20260106ConsoleRead.exe.config

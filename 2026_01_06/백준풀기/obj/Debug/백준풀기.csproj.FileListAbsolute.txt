@@ -1,0 +1,8 @@
+C:\dev\Lion7\2026_01_06\백준풀기\bin\Debug\백준풀기.exe.config
+C:\dev\Lion7\2026_01_06\백준풀기\bin\Debug\백준풀기.exe
+C:\dev\Lion7\2026_01_06\백준풀기\bin\Debug\백준풀기.pdb
+C:\dev\Lion7\2026_01_06\백준풀기\obj\Debug\백준풀기.csproj.AssemblyReference.cache
+C:\dev\Lion7\2026_01_06\백준풀기\obj\Debug\백준풀기.csproj.CoreCompileInputs.cache
+C:\dev\Lion7\2026_01_06\백준풀기\obj\Debug\백준풀기.exe
+C:\dev\Lion7\2026_01_06\백준풀기\obj\Debug\백준풀기.pdb
+C:\dev\Lion7\2026_01_06\백준풀기\obj\Debug\백준풀기.exe.config

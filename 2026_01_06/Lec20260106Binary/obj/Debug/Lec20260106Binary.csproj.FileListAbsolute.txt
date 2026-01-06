@@ -1,0 +1,8 @@
+C:\dev\Lion7\2026_01_06\Lec20260106Binary\bin\Debug\Lec20260106Binary.exe.config
+C:\dev\Lion7\2026_01_06\Lec20260106Binary\bin\Debug\Lec20260106Binary.exe
+C:\dev\Lion7\2026_01_06\Lec20260106Binary\bin\Debug\Lec20260106Binary.pdb
+C:\dev\Lion7\2026_01_06\Lec20260106Binary\obj\Debug\Lec20260106Binary.csproj.AssemblyReference.cache
+C:\dev\Lion7\2026_01_06\Lec20260106Binary\obj\Debug\Lec20260106Binary.csproj.CoreCompileInputs.cache
+C:\dev\Lion7\2026_01_06\Lec20260106Binary\obj\Debug\Lec20260106Binary.exe
+C:\dev\Lion7\2026_01_06\Lec20260106Binary\obj\Debug\Lec20260106Binary.pdb
+C:\dev\Lion7\2026_01_06\Lec20260106Binary\obj\Debug\Lec20260106Binary.exe.config
