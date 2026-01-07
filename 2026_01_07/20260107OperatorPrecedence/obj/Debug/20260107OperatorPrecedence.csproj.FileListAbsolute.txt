@@ -1,0 +1,8 @@
+C:\dev\Lion7\2026_01_07\20260107OperatorPrecedence\bin\Debug\20260107OperatorPrecedence.exe.config
+C:\dev\Lion7\2026_01_07\20260107OperatorPrecedence\bin\Debug\20260107OperatorPrecedence.exe
+C:\dev\Lion7\2026_01_07\20260107OperatorPrecedence\bin\Debug\20260107OperatorPrecedence.pdb
+C:\dev\Lion7\2026_01_07\20260107OperatorPrecedence\obj\Debug\20260107OperatorPrecedence.csproj.AssemblyReference.cache
+C:\dev\Lion7\2026_01_07\20260107OperatorPrecedence\obj\Debug\20260107OperatorPrecedence.csproj.CoreCompileInputs.cache
+C:\dev\Lion7\2026_01_07\20260107OperatorPrecedence\obj\Debug\20260107OperatorPrecedence.exe
+C:\dev\Lion7\2026_01_07\20260107OperatorPrecedence\obj\Debug\20260107OperatorPrecedence.pdb
+C:\dev\Lion7\2026_01_07\20260107OperatorPrecedence\obj\Debug\20260107OperatorPrecedence.exe.config

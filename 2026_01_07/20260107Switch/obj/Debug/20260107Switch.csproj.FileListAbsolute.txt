@@ -1,0 +1,8 @@
+C:\dev\Lion7\2026_01_07\20260107Switch\bin\Debug\20260107Switch.exe.config
+C:\dev\Lion7\2026_01_07\20260107Switch\bin\Debug\20260107Switch.exe
+C:\dev\Lion7\2026_01_07\20260107Switch\bin\Debug\20260107Switch.pdb
+C:\dev\Lion7\2026_01_07\20260107Switch\obj\Debug\20260107Switch.csproj.AssemblyReference.cache
+C:\dev\Lion7\2026_01_07\20260107Switch\obj\Debug\20260107Switch.csproj.CoreCompileInputs.cache
+C:\dev\Lion7\2026_01_07\20260107Switch\obj\Debug\20260107Switch.exe
+C:\dev\Lion7\2026_01_07\20260107Switch\obj\Debug\20260107Switch.pdb
+C:\dev\Lion7\2026_01_07\20260107Switch\obj\Debug\20260107Switch.exe.config

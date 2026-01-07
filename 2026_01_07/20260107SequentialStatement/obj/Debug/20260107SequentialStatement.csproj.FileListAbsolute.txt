@@ -1,0 +1,8 @@
+C:\dev\Lion7\2026_01_07\20260107SequentialStatement\bin\Debug\20260107SequentialStatement.exe.config
+C:\dev\Lion7\2026_01_07\20260107SequentialStatement\bin\Debug\20260107SequentialStatement.exe
+C:\dev\Lion7\2026_01_07\20260107SequentialStatement\bin\Debug\20260107SequentialStatement.pdb
+C:\dev\Lion7\2026_01_07\20260107SequentialStatement\obj\Debug\20260107SequentialStatement.csproj.AssemblyReference.cache
+C:\dev\Lion7\2026_01_07\20260107SequentialStatement\obj\Debug\20260107SequentialStatement.csproj.CoreCompileInputs.cache
+C:\dev\Lion7\2026_01_07\20260107SequentialStatement\obj\Debug\20260107SequentialStatement.exe
+C:\dev\Lion7\2026_01_07\20260107SequentialStatement\obj\Debug\20260107SequentialStatement.pdb
+C:\dev\Lion7\2026_01_07\20260107SequentialStatement\obj\Debug\20260107SequentialStatement.exe.config

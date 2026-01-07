@@ -11,24 +11,20 @@ namespace 백준풀기
     {
         static void Main(string[] args)
         {
-            string m = Console.ReadLine();
-            string r = Console.ReadLine();
-            int M = int.Parse(m);
-            int R = int.Parse(r);
+            string w = Console.ReadLine();
+            int x = int.Parse(w);
+            string[] y = new string[x];
 
-            int c_M = 0;
-            int c_R = 0;
-
-            for (int i = 0; i < R; i++)
+            for (int i = 0; i < x; i++)
             {
-                string[] n = Console.ReadLine().Split();
-                int m_ = int.Parse(n[0]);
-                int r_ = int.Parse(n[1]);
-                c_M = c_M + m_;
-                c_R = c_R + r_;
+                string[] k = Console.ReadLine().Split();
+                y[i] = k[0] + k[1];
             }
 
-            Console.Write(M == c_M && R == c_R);
+            for (i = 0; i < x; i++)
+            {
+                Console.WriteLine($"{y[i]}");
+            }
 
 
         }
