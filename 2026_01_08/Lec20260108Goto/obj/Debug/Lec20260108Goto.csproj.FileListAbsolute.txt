@@ -1,0 +1,8 @@
+C:\dev\Lion7\2026_01_08\Lec20260108Goto\bin\Debug\Lec20260108Goto.exe.config
+C:\dev\Lion7\2026_01_08\Lec20260108Goto\bin\Debug\Lec20260108Goto.exe
+C:\dev\Lion7\2026_01_08\Lec20260108Goto\bin\Debug\Lec20260108Goto.pdb
+C:\dev\Lion7\2026_01_08\Lec20260108Goto\obj\Debug\Lec20260108Goto.csproj.AssemblyReference.cache
+C:\dev\Lion7\2026_01_08\Lec20260108Goto\obj\Debug\Lec20260108Goto.csproj.CoreCompileInputs.cache
+C:\dev\Lion7\2026_01_08\Lec20260108Goto\obj\Debug\Lec20260108Goto.exe
+C:\dev\Lion7\2026_01_08\Lec20260108Goto\obj\Debug\Lec20260108Goto.pdb
+C:\dev\Lion7\2026_01_08\Lec20260108Goto\obj\Debug\Lec20260108Goto.exe.config

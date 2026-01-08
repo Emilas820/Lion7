@@ -1,0 +1,7 @@
+C:\dev\Lion7\2026_01_08\Lec20260108Break\bin\Debug\Lec20260108Break.exe.config
+C:\dev\Lion7\2026_01_08\Lec20260108Break\bin\Debug\Lec20260108Break.exe
+C:\dev\Lion7\2026_01_08\Lec20260108Break\bin\Debug\Lec20260108Break.pdb
+C:\dev\Lion7\2026_01_08\Lec20260108Break\obj\Debug\Lec20260108Break.csproj.AssemblyReference.cache
+C:\dev\Lion7\2026_01_08\Lec20260108Break\obj\Debug\Lec20260108Break.csproj.CoreCompileInputs.cache
+C:\dev\Lion7\2026_01_08\Lec20260108Break\obj\Debug\Lec20260108Break.exe
+C:\dev\Lion7\2026_01_08\Lec20260108Break\obj\Debug\Lec20260108Break.pdb

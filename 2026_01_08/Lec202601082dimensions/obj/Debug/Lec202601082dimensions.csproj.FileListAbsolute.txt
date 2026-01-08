@@ -1,0 +1,8 @@
+C:\dev\Lion7\2026_01_08\Lec202601082dimensions\bin\Debug\Lec202601082dimensions.exe.config
+C:\dev\Lion7\2026_01_08\Lec202601082dimensions\bin\Debug\Lec202601082dimensions.exe
+C:\dev\Lion7\2026_01_08\Lec202601082dimensions\bin\Debug\Lec202601082dimensions.pdb
+C:\dev\Lion7\2026_01_08\Lec202601082dimensions\obj\Debug\Lec202601082dimensions.csproj.AssemblyReference.cache
+C:\dev\Lion7\2026_01_08\Lec202601082dimensions\obj\Debug\Lec202601082dimensions.csproj.CoreCompileInputs.cache
+C:\dev\Lion7\2026_01_08\Lec202601082dimensions\obj\Debug\Lec202601082dimensions.exe
+C:\dev\Lion7\2026_01_08\Lec202601082dimensions\obj\Debug\Lec202601082dimensions.pdb
+C:\dev\Lion7\2026_01_08\Lec202601082dimensions\obj\Debug\Lec202601082dimensions.exe.config

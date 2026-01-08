@@ -1,0 +1,8 @@
+C:\dev\Lion7\2026_01_08\Lec20260108Mission2\bin\Debug\Lec20260108Mission2.exe.config
+C:\dev\Lion7\2026_01_08\Lec20260108Mission2\bin\Debug\Lec20260108Mission2.exe
+C:\dev\Lion7\2026_01_08\Lec20260108Mission2\bin\Debug\Lec20260108Mission2.pdb
+C:\dev\Lion7\2026_01_08\Lec20260108Mission2\obj\Debug\Lec20260108Mission2.csproj.AssemblyReference.cache
+C:\dev\Lion7\2026_01_08\Lec20260108Mission2\obj\Debug\Lec20260108Mission2.csproj.CoreCompileInputs.cache
+C:\dev\Lion7\2026_01_08\Lec20260108Mission2\obj\Debug\Lec20260108Mission2.exe
+C:\dev\Lion7\2026_01_08\Lec20260108Mission2\obj\Debug\Lec20260108Mission2.pdb
+C:\dev\Lion7\2026_01_08\Lec20260108Mission2\obj\Debug\Lec20260108Mission2.exe.config
