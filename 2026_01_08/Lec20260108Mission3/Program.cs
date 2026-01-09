@@ -117,11 +117,11 @@ namespace Lec20260108Mission3
                     for (int x = startX; x <= endX; x++)
                     {
                         double progress = (double)(x - startX) / (endX - startX);
-
                         double yOffset = 4 * maxHeight * progress * (1 - progress);
 
                         int currentX = x;
-                        int currentY = startY - (int)Math.Round(yOffset);
+                        int currentY = startY - (int)Math.Round(yOffset); // 반올림
+                        // int currentY = startY - (int)yOffset; - 버림
 
                         // 3. 화면 밖으로 나가는 것 방지 및 출력
                         if (currentX >= 0 && currentX < Console.WindowWidth && currentY >= 0 && currentY < Console.WindowHeight)
@@ -148,7 +148,6 @@ namespace Lec20260108Mission3
                                 Thread.Sleep(200);
                             }
                         }
-
                         Thread.Sleep(50); // 발사 속도 조절
                     }
 

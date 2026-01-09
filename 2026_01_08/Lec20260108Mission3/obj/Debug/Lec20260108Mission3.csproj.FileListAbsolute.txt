@@ -6,3 +6,11 @@ C:\dev\Lion7\2026_01_08\Lec20260108Mission3\obj\Debug\Lec20260108Mission3.csproj
 C:\dev\Lion7\2026_01_08\Lec20260108Mission3\obj\Debug\Lec20260108Mission3.exe
 C:\dev\Lion7\2026_01_08\Lec20260108Mission3\obj\Debug\Lec20260108Mission3.pdb
 C:\dev\Lion7\2026_01_08\Lec20260108Mission3\obj\Debug\Lec20260108Mission3.exe.config
+C:\dev\study\Lion7\2026_01_08\Lec20260108Mission3\bin\Debug\Lec20260108Mission3.exe.config
+C:\dev\study\Lion7\2026_01_08\Lec20260108Mission3\bin\Debug\Lec20260108Mission3.exe
+C:\dev\study\Lion7\2026_01_08\Lec20260108Mission3\bin\Debug\Lec20260108Mission3.pdb
+C:\dev\study\Lion7\2026_01_08\Lec20260108Mission3\obj\Debug\Lec20260108Mission3.csproj.AssemblyReference.cache
+C:\dev\study\Lion7\2026_01_08\Lec20260108Mission3\obj\Debug\Lec20260108Mission3.exe.config
+C:\dev\study\Lion7\2026_01_08\Lec20260108Mission3\obj\Debug\Lec20260108Mission3.csproj.CoreCompileInputs.cache
+C:\dev\study\Lion7\2026_01_08\Lec20260108Mission3\obj\Debug\Lec20260108Mission3.exe
+C:\dev\study\Lion7\2026_01_08\Lec20260108Mission3\obj\Debug\Lec20260108Mission3.pdb
