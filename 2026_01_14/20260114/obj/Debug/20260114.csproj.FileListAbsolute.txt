@@ -1,0 +1,8 @@
+C:\dev\study\Lion7\2026_01_14\20260114\bin\Debug\20260114.exe.config
+C:\dev\study\Lion7\2026_01_14\20260114\bin\Debug\20260114.exe
+C:\dev\study\Lion7\2026_01_14\20260114\bin\Debug\20260114.pdb
+C:\dev\study\Lion7\2026_01_14\20260114\obj\Debug\20260114.csproj.AssemblyReference.cache
+C:\dev\study\Lion7\2026_01_14\20260114\obj\Debug\20260114.csproj.CoreCompileInputs.cache
+C:\dev\study\Lion7\2026_01_14\20260114\obj\Debug\20260114.exe
+C:\dev\study\Lion7\2026_01_14\20260114\obj\Debug\20260114.pdb
+C:\dev\study\Lion7\2026_01_14\20260114\obj\Debug\20260114.exe.config
